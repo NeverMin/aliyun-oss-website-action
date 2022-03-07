@@ -5,7 +5,7 @@ import (
 
 	"aliyun-oss-website-action/config"
 
-	"github.com/fangbinwei/aliyun-oss-go-sdk/oss"
+	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )
 
 // SetStaticWebsiteConfig is used to set some option of website, like redirect strategy, index page, 404 page.
