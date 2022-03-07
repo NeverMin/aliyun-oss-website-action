@@ -9,7 +9,7 @@ import (
 	"aliyun-oss-website-action/config"
 	"aliyun-oss-website-action/utils"
 
-	"github.com/fangbinwei/aliyun-oss-go-sdk/oss"
+	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )
 
 // UploadObjects upload files to OSS
